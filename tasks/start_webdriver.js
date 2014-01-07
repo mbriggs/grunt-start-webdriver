@@ -62,7 +62,7 @@ module.exports = function (grunt) {
     });
 
     selenium.stderr.addListener('data', function(err){
-      grunt.log.error('SELENIUM ERR: ' + err);
+      grunt.log.error(err);
     });
   });
 };
