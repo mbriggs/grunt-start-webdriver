@@ -1,6 +1,6 @@
 {
   "name": "grunt-start-webdriver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "_only_ starts the selenium webdriver",
   "homepage": "https://github.com/mbriggs/grunt-start-webdriver",
   "bugs": "https://github.com/mbriggs/grunt-start-webdriver/issues",
